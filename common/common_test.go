@@ -1,3 +1,7 @@
+/*
+	@author rwbm
+*/
+
 package common
 
 import (
