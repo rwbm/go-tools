@@ -1,4 +1,4 @@
-module github.com/rwbm/go-tools/v1
+module github.com/rwbm/go-tools
 
 go 1.14
 
