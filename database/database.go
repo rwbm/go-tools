@@ -11,7 +11,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/rwbm/go-tools/v1/common"
+	"github.com/rwbm/go-tools/common"
 )
 
 // BuildUpdateSetQuery returns a string that can be used to build a set query, with
